@@ -1,0 +1,12 @@
+board_type: 0
+image_converter_color: 6
+multu_unit: 1
+batch: 0
+units: 1
+type_model: 0
+model: model_mu.nm8
+weight: nan
+compilation: 1
+adders: -0.0445709229 -0.0445709229 -0.0445709229
+dividers: 638.48399174753570 638.48399174753570 638.48399174753570
+image: cloud_test_ms.bmp
